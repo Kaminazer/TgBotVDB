@@ -1,0 +1,11 @@
+{
+    "telegram_token": "8086135505:AAHd4WxXNnTOywIsqb7aX3lH17QgE6WPQJg",
+    "milvus": {
+      "host": "localhost",
+      "port": 19530
+    },
+    "qdrant": {
+      "host": "localhost",
+      "port": 6333
+    }
+  }

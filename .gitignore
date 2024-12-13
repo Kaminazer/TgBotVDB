@@ -1,0 +1,13 @@
+# Ігнорування кешу Python
+__pycache__/
+*.py[cod]
+
+# Ігнорування Docker volume
+volumes/
+
+# Ігнорування логів
+*.log
+
+# Ігнорування системних файлів
+.DS_Store
+Thumbs.db
